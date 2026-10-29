@@ -1,0 +1,4 @@
+interface:
+  display_name: "品牌策略提案公式"
+  short_description: "从产品、用户和竞品事实推导定位、大单品与传播，生成可排版提案"
+  default_prompt: "请用 $brand-strategy-proposal，根据我提供的品牌资料生成可落地的品牌策略提案，并标明需要验证的关键假设。"
